@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fb6c521-3ec1-4ff8-b28c-3e501588deb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gat1400/doc/capture_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat1400/doc/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMQ/rabbitMQ.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitMQ/test/rabbitMQ_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +39,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rabbitMQ/test" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
