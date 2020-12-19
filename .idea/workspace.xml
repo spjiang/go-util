@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fb6c521-3ec1-4ff8-b28c-3e501588deb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gat1400/entity.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat1400/receive.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat1400/report.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gat1400/doc/capture_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gat1400/doc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitMQ/rabbitMQ.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="Go File" />
       </list>
     </option>
@@ -28,8 +30,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -50,5 +54,11 @@
       </map>
     </environment>
     <proxy>https://athens.azurefd.net</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608279522336">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="427" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1608279522336" />
   </component>
 </project>

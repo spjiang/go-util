@@ -1,0 +1,6 @@
+# github.com/assembla/cony v0.3.2
+## explicit
+github.com/assembla/cony
+# github.com/streadway/amqp v1.0.0
+## explicit
+github.com/streadway/amqp
